@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi, I'm Mehdi Rajabi.
 
-<!--
-**M-Rajabi-dev/M-Rajabi-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Python developer building accessible tools for everyone.
+Currently working on **AudioShelf**, an audiobook player designed with accessibility in mind.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I Do
+*   Building desktop applications with **Python** & **wxPython**.
+*   Solving accessibility challenges using **NVDA integration**.
+*   Creating clean and functional user interfaces.
+
+---
+
+### Connect
+*   📧 **Email:** mehdi.rajabi.dev@gmail.com
